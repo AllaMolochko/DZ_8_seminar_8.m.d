@@ -9,7 +9,7 @@
 //9 5 3 2
 //8 4 4 2
 
-Console.Clear();
+
 Console.WriteLine($"\nЗадайте размер массива m x n и диапазон случайных значений:");
 int m = InputNumbers("Введите m: ");
 int n = InputNumbers("Введите n: ");
